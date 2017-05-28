@@ -19,12 +19,12 @@ activity_labels.txt: Names and IDs for each of the 6 activities.
 
 In c:/Coursera/UCI HAR Dataset/train the following files were used
 * X_train.txt: 7352 observations of the 561 features.
-* y_train.txt: A vector of 7352 integers, referents the ID of the activity related to each of the observations in y_train.txt.
+* Y_train.txt: A vector of 7352 integers, referents the ID of the activity related to each of the observations in y_train.txt.
 * subject_train.txt: A vector of 7352 integers, referents the ID of the volunteer related to each of the observations in subject_train.txt.
 	
 In c:/Coursera/UCI HAR Dataset/test the following files were used
 * X_test.txt: 2947 observations of the 561 features.
-* y_test.txt: A vector of 2947 integers, referents the ID of the activity related to each of the observations in Y_test.txt.
+* Y_test.txt: A vector of 2947 integers, referents the ID of the activity related to each of the observations in Y_test.txt.
 * subject_test.txt: A vector of 2947 integers, referents the ID of the volunteer related to each of the observations in subject_test.txt.
 	
 ## Procedures 
