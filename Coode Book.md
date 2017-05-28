@@ -1,4 +1,4 @@
-### Code Book
+## Code Book
 generated at 2017-07-10 referring to code run_analysis.R
 
 This code book will describe the variables and data used in this project. Too the transformations and results.
@@ -10,7 +10,7 @@ There are 30 volunteers evaluated in 6 different activities while using a smartp
 
 Downloading zip file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-##Extracting zip file to c:/Coursera  
+Extracting zip file to c:/Coursera  
 
 The following files were used from the UCI HAR Dataset folder
 	
