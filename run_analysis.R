@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project - Activities
 
 # Download https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-# Unzip and set diretório UCI HAR Dataset > 
+# Unzip and set diretÃ³rio UCI HAR Dataset > 
 
 setwd("C:/Coursera/UCI HAR Dataset")
 library(reshape2)
@@ -71,4 +71,5 @@ order
 # write the tidy or order data set to a file
 write.csv(tidy, "tidy.csv", row.names=FALSE)
 write.csv(order, "order.csv", row.names=FALSE)
+write.table(order, "tidy.txt", row.names=FALSE)
 
