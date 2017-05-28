@@ -71,5 +71,5 @@ order
 # write the tidy or order data set to a file
 write.csv(tidy, "tidy.csv", row.names=FALSE)
 write.csv(order, "order.csv", row.names=FALSE)
-write.table(order, "tidy.txt", row.names=FALSE)
+write.table(tidy, "tidy.txt", row.names=FALSE)
 
