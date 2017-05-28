@@ -20,7 +20,7 @@ Here are the steps that must be performed before running the R script:
 *	features.txt
 *	activity_labels
 8. Merge train and test dataset
-9. Associate the name of variables (activity_labels.txt)
+9. Associate the name of variables (activity_labels.txt) to each factor.
 10. Organize the data and calculate the mean
 11.	The output of the R script is a tidy data set (tidy.csv or order.csv). 
 12. Save the R script (run_analysis.R) and run. 
