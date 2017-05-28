@@ -1,9 +1,9 @@
-# GettingandCleaningData
+## GettingandCleaningData
 
 The activity for Getting and Cleaning Data was to read in the "Human Activity Recognition Using Smartphones" data set.
 Here are the steps that must be performed before running the R script:
 
-##Steps
+#Steps
 1.	Download the zip file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2.	Unzip the file in C:/Coursera
 3.	setwd("C:/Coursera/UCI HAR Dataset")
