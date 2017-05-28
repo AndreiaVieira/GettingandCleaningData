@@ -6,7 +6,7 @@ Steps
 1.	Download the zip file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2.	Unzip the file in C:/Coursera
 3.	setwd("C:/Coursera/UCI HAR Dataset")
-4.	library (reshape2) - package (will be used in STEP 5)
+4.	Install library (reshape2) - package will be used in STEP 5
 5.	Filies used The directory UCI HAR/train -
 o	X_train.txt
 o	y_train.txt
