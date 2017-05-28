@@ -2,14 +2,14 @@
 
 This code book will describe the variables and data used in this project. Too the transformations and results.
 	
-There are 30 volunteers evaluated in 6 different activities while using a smartphone.
+## There are 30 volunteers evaluated in 6 different activities while using a smartphone.
 	
 	
-create data dir c:/Coursera
+## create data dir c:/Coursera
 
 Downloading zip file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Extracting zip file to c:/Coursera  
+##Extracting zip file to c:/Coursera  
 
 The following files were used from the UCI HAR Dataset folder
 	
