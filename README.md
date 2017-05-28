@@ -7,11 +7,11 @@ Steps
 2.	Unzip the file.
 3.	setwd("C:/Coursera/UCI HAR Dataset")
 4.	library (reshape2) - package (will be used in STEP 5)
-5.	Filies used The directory UCI HAR/train
+5.	Filies used The directory UCI HAR/train -
 o	X_train.txt
 o	y_train.txt
 o	subject_train.txt
-6.	Filies used The directory UCI HAR/test
+6.	Filies used The directory UCI HAR/test -
 o	X_test.txt
 o	y_test.txt
 o	subject_test.txt
