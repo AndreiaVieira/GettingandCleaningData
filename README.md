@@ -8,11 +8,11 @@ Here are the steps that must be performed before running the R script:
 2.	Unzip the file in C:/Coursera
 3.	setwd("C:/Coursera/UCI HAR Dataset")
 4.	Install library reshape2 - package will be used in STEP 5
-5.	Read filies in the directory UCI HAR Dataset/train -
+5.	Read filies in the directory UCI HAR Dataset/train 
 o	X_train.txt
 o	y_train.txt
 o	subject_train.txt
-6.	Read filies in the directory UCI HAR Dataset/test -
+6.	Read filies in the directory UCI HAR Dataset/test 
 o	X_test.txt
 o	y_test.txt
 o	subject_test.txt
