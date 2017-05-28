@@ -3,7 +3,7 @@ generated at 2017-07-10 referring to code run_analysis.R
 
 This code book will describe the variables and data used in this project. Too the transformations and results.
 	
-## There are 30 volunteers evaluated in 6 different activities while using a smartphone.
+There are 30 volunteers evaluated in 6 different activities while using a smartphone.
 	
 	
 ## create data dir c:/Coursera
@@ -27,6 +27,7 @@ In c:/Coursera/UCI HAR Dataset/test the following files were used
 * y_test.txt: A vector of 2947 integers, referents the ID of the activity related to each of the observations in Y_test.txt.
 * subject_test.txt: A vector of 2947 integers, referents the ID of the volunteer related to each of the observations in subject_test.txt.
 	
+## Procedures 
 Only variables referents measurements on the mean and standard deviation (files X_train.tx and X_test.txt)
 Then there was a merge of training and test files
 The activity column was converted from a integer to a factor, using labels describing the activities (activity_labels.txt).
