@@ -28,8 +28,8 @@ In c:/Coursera/UCI HAR Dataset/test the following files were used
 * subject_test.txt: A vector of 2947 integers, referents the ID of the volunteer related to each of the observations in subject_test.txt.
 	
 ## Procedures 
-Only variables referents measurements on the mean and standard deviation (files X_train.tx and X_test.txt)
-Then there was a merge of training and test files
-The activity column was converted from a integer to a factor, using labels describing the activities (activity_labels.txt).
-A tidy data set was created containing the mean of each feature for each subject and each activity
-Form generated output files (tidy.csv and order.csv).  Both  with data tidy.
+* Only variables referents measurements on the mean and standard deviation (files X_train.tx and X_test.txt)
+* Then there was a merge of training and test files
+* The activity column was converted from a integer to a factor, using labels describing the activities (activity_labels.txt).
+* A tidy data set was created containing the mean of each feature for each subject and each activity
+* Form generated output files (tidy.csv and order.csv).  Both  with data tidy.
