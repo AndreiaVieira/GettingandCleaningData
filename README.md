@@ -17,8 +17,8 @@ Here are the steps that must be performed before running the R script:
 *	y_test.txt
 *	subject_test.txt
 7.	Read Filies in directory UCI HAR Dataset/
-o	features.txt
-o	activity_labels
+*	features.txt
+*	activity_labels
 8. Merge train and test dataset
 9. Associate the name of variables (activity_labels.txt)
 10. Organize the data and calculate the mean
